@@ -1,1 +1,2 @@
 Just wanted to say Hi!
+adding another line to test after making changes to use my public emial address for git commits
